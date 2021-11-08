@@ -33,8 +33,10 @@ The Atm-Exercise was created for MITxPro full stack web development program. </b
 
 **<p> Future updates: </p>**
 - Create a "Credit" field to similuate a separate bank for "gift cards"
+- create additional logic on how information is displayed 
+- refactor into modules
 - Update the css 
--   
+   
 
 ## Support:
 
